@@ -57,12 +57,12 @@ rav run server
 ``` 
 Server will run at:
 ```
-http://0.0.0.0:8000
+http://127.0.0.1:8001
 ```
 
 ### 7. Django admin
 ``` 
-http://0.0.0.0:8000/admin
+http://127.0.0.1:8001/admin
 ```
 
 ### 8. Common commands
